@@ -30,7 +30,7 @@ height="40"/>&nbsp;
 
 ---
 
-### 🛠️: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
@@ -47,6 +47,6 @@ height="40"/>&nbsp;
 
 ---
 
-### 🔥: My Stats :
+### 🔥 My Stats :
 ![Zeynal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlishovZeynal&theme=highcontrast&show_icons=true&card_width=1010)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishovZeynal&layout=compact&theme=highcontrast&card_width=1010)
